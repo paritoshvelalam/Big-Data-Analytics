@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552013249866.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3002918341",
+    "id" : "C4F25731",
+    "lastKnownWriteTime" : 1552098608,
+    "last_content_update" : 1552098608144,
+    "path" : "C:/Users/avula/Lab1/DICLab1/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "19,3",
+        "scrollLine" : "14"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

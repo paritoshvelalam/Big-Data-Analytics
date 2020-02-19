@@ -1,0 +1,7 @@
+f = open("filename.txt",'r')
+content = f.read()
+content2 = content.encode('ascii','ignore').decode('utf-8')
+fw = open("newfilename.txt",'w')
+fw.write(content2)
+f.close()
+fw.close()
